@@ -1,10 +1,11 @@
 
 
 <h1 align="left">Olá, sou o Nelson. Seja bem vindo! 👋</h1>
+<h3 align="left">Hi! I', Nelson. Welcome 👋</h3>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  Sobre mim / about me</h3>
 
 ###
 
